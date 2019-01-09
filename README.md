@@ -1,0 +1,1 @@
+This project is intended to be cloned into a local environment for faster project setup. After cloning ensure the .gitignore and .gcloudignore files have the bottom entries uncommented to avoid tracking the app.yaml and Pipfile's.
